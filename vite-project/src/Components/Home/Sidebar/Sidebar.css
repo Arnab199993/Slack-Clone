@@ -1,0 +1,62 @@
+.main-sidebar{
+    height: 800px;  
+    width:200px;
+    background-color: #70597a;
+    display: flex;
+}
+.Heading{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-weight: bold;
+    color:white;
+    display: flex;
+}
+.image{
+    height: 40px;
+    width:40px;
+    margin-left: 10px;
+}
+.icon-with-name{
+    display: flex;
+    margin-top:20px
+}
+.Dropdown{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+.Dummy{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.channel{
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.modal1{
+    height: 30px;
+    width: 550px;
+    border: 1px solid black;
+}
+.modal2{
+    height: 30px;
+    width: 550px;
+    border: 1px solid black;
+    margin-top:10px
+}
+.modal{
+     margin-left: 200px; 
+}
+.List{
+    list-style-type: none;
+    color:whitesmoke;
+    width: 150px;
+    margin-top: 10px;
+}
+.List:hover{
+    cursor: pointer;
+    background-color: rgb(68, 49, 77);
+}

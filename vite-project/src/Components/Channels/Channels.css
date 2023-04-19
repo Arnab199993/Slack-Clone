@@ -1,0 +1,12 @@
+.Channel{
+    color:white;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.default:hover{
+    opacity: 0.5;
+}
+.default{
+    height: 30px;   
+}
